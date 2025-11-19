@@ -13,10 +13,7 @@ public class garaauto{
         // Istanzia un array di thread
         Thread[] arrayDiThread = new Thread[numeroDiThread];
 
-        // Inizializza ogni elemento dell'array con un nuovo thread
-        for (i = 0; i < numeroDiThread; i++) {
-            arrayDiThread[i] = new ThreadAuto(i);
-        }
+
 
         for (Thread thread : arrayDiThread) {
             thread.start();
