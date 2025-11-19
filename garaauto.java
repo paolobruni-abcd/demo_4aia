@@ -1,9 +1,4 @@
-import java.util.*;
-import java.lang.*;
 
-//solo thread con sistema thread
-public class garaauto{
-	
 	static int classifica[] = new int [20];
 
     public static void main(String[] a){
@@ -70,3 +65,8 @@ egewrge
 
 
 
+serfgdfsg
+dsfg
+dfsg
+dsfgdsfg
+dsfg
