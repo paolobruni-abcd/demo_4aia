@@ -41,9 +41,6 @@ public class ThreadAuto extends Thread {
     Random random = new Random();
     int numero;
    
-    public ThreadAuto(int n){
-        numero=n;
-    }
    
     public void run(){
         int i,tempo;
@@ -57,6 +54,16 @@ public class ThreadAuto extends Thread {
 			garaauto.classifica[numero]+=tempo;
             try{ Thread.sleep(tempo); } catch(InterruptedException e) {}
             System.out.println("Auto numero "+numero+" giro: "+i);           
+
+weorjg opew werg
+ewrg 
+ewrgewgewrg
+ewr gtewr gtewr ewrttew
+
+
+asdfqwfg
+egewrge
+
         }
     }
 }
